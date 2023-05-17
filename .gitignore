@@ -1,0 +1,8 @@
+venv
+config.py
+similarity.pkl
+movie_dict.pkl
+movies.pkl
+__pycache__
+**/__pycache/**
+.idea
